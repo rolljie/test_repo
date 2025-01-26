@@ -1,2 +1,2 @@
 initial settings -- fan
-+ feature-1 -- fan
++ feature-1 -- fan(new)
